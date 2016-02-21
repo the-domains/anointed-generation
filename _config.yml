@@ -1,3 +1,7 @@
+name: 'Anointed Generation '
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1079484
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1079484
+title: The Great Commission
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4828142
-  brandStrength: 0.9543501
-  lightness: 0.4205156
   brandColors:
     - '#FFFFFF'
     - '#020101'
     - '#660001'
     - '#B52714'
     - '#393939'
+  brandStrength: 0.9543501
+  lightness: 0.4205156
+  saturation: 0.4828142
   rhythmicContrast: 1
-layout_spectrum: 1
-name: 'Anointed Generation '
+purpose: []
