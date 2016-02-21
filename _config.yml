@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4828142
+  lightness: 0.4205156
+  brandStrength: 0.4989259
+  brandColors:
+    - '#FFFFFF'
+    - '#020101'
+    - '#660001'
+    - '#B52714'
+    - '#393939'
+  rhythmicContrast: 1
+typography_spectrum: 0.1079484
+name: 'Anointed Generation '
